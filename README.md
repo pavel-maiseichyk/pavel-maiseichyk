@@ -1,30 +1,19 @@
-<h1 align="center">Your Passionate Android & KMM Developer 💡</h1>
+# Hi, I'm Paul 👋
 
-<p align="center"><strong>Dedicated to Crafting Innovative Mobile Applications</strong></p>
+I'm a Software Engineer based in Poland, primarily working with **Android** and **Kotlin Multiplatform**. I also develop frontend interfaces and backend services in both **TypeScript** and **Kotlin**, taking complete features from initial design through implementation. I care deeply about clear interfaces, smooth animations, and apps that feel good to use :)
 
-<p>
-    Hello there! 👋 My name is Pavel, I’m an Mobile Developer with a strong foundation in creating mobile applications through personal projects. 
-    I'm always exploring new technologies and looking to expand my skill set.  
-    Beyond development, I enjoy music – singing, playing the piano, and the guitar. 🎶
-</p>
+I'm currently pursuing a **Master's in Computer Science**. When I'm not coding, I sing and play the piano!
 
-### About Work
+## Tech stack
 
-- 🔭 I’m currently working on [**Love Calendar**](https://github.com/pavel-maiseichyk/love-calendar/) to help couples track important dates.
+### Mobile
 
-- 🌱 I’m learning **Compose Multiplatform** to expand my mobile development skills.
+Kotlin · Jetpack Compose · Kotlin Multiplatform · Compose Multiplatform
 
-- 👩‍💼 I have hands-on experience with **Native Android Development** and **Kotlin Multiplatform Development**.
+![Mobile tools](https://skillicons.dev/icons?i=kotlin,androidstudio,gradle)
 
-- 💬 Feel free to ask me about **Kotlin, Android, and Mobile Development**!
+### Full-stack
 
-### Tech Stack
+TypeScript · React · Next.js · Node.js · Express · Ktor · PostgreSQL · MongoDB
 
-#### Specialist In
-[![Specialist in](https://skillicons.dev/icons?i=kotlin,ktor,androidstudio,idea)](https://skillicons.dev)
-
-#### Experienced In
-[![Experienced in](https://skillicons.dev/icons?i=java,gradle,mongodb)](https://skillicons.dev)
-
-#### Proficient In Tools
-[![Proficient in tools like](https://skillicons.dev/icons?i=docker,git,github,postman,figma,notion)](https://skillicons.dev)
+![Full-stack tools](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,ktor,postgres,mongodb)
